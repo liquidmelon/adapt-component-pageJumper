@@ -1,0 +1,17 @@
+{
+  "name": "adapt-component-pageJumper",
+  "version": "0.0.1",
+  "framework": "^2.0.0",
+  "homepage": "http://liquidmelon.com",
+  "issues": "http://liquidmelon.com",
+  "displayName" : "Page Jumper",
+  "component" : "pageJumper",
+  "description": "text component with a button that jumps you to a different page",
+  "main": "/js/adapt-component-pageJumper.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_pageJumper"
+}
