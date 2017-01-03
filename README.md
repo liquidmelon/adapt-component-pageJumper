@@ -3,7 +3,7 @@ text component with a button that jumps you to a different page
 
 
 
-this component was derived from the text component which can be found here: https://github.com/adaptlearning/adapt-contrib-text
+this component was derived from adaptlearning's text component which can be found here: https://github.com/adaptlearning/adapt-contrib-text
 
 
 
