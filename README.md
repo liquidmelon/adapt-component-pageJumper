@@ -13,7 +13,7 @@ the difference is the addition of a button which allows navigation to a differen
 
 ##Button Positioning
 
-change this style in .jumpnav to position the button, default is left:
+use one of these styles in .jumpnav to position the button, default is left:
 
 text-align: left;
 
