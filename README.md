@@ -7,7 +7,7 @@ this component was derived from adaptlearning's text component which can be foun
 
 
 
-the difference is the addition of a button which allows navigation to a different page within the course.
+the difference is the addition of a button which allows navigation to a different page within the course
 
 
 
