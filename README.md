@@ -13,16 +13,13 @@ the difference is the addition of a button which allows navigation to a differen
 
 ##Button Positioning
 
-use one of these styles in .jumpnav to position the button, default is left:
-
-text-align: left;
-
-text-align: center;
-
-text-align: right;
+choose one of these positions for the button in the properties, default is left:
+left
+center
+right
 
 
 
 ## Limitations
 
-it is recommended to jump to pages only within the same submenu due to the default behavior of the navigation's back button.
+the jump-to page will replace the current page in the history. it is recommended to jump to pages only within the same submenu for a fluid user experience.
