@@ -13,10 +13,7 @@ the difference is the addition of a button which allows navigation to a differen
 
 ##Button Positioning
 
-choose one of these positions for the button in the properties, default is left:
-left
-center
-right
+choose one of these positions for the button in the properties: left (default), center, right
 
 
 
