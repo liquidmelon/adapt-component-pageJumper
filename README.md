@@ -19,10 +19,19 @@ the difference is the addition of a button which allows navigation to a differen
 
 ##Button Positioning
 
-choose one of these positions for the button in the properties: left (default), center, right
+choose one of these positions for the button using the dropdown in the properties:
+left (default), center, right
+
+you can also position the instruction text like this:
+
+```<span style="display:block; text-align:left">oink!</span>```
+
+```<span style="display:block; text-align:centert">oink!</span>```
+
+```<span style="display:block; text-align:right">oink!</span>```
 
 
 
 ## Limitations
 
-the jump-to page will replace the current page in the history. it is recommended to jump to pages only within the same submenu for a fluid user experience.
+the jump-to page will replace the current page in the history. to maintain a fluid user experience, it is recommended to jump to pages only within the same submenu.
