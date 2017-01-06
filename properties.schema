@@ -1,0 +1,70 @@
+{
+  "type":"object",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://jsonschema.net",
+  "$ref": "http://localhost/plugins/content/component/model.schema",
+  "globals": {
+    "ariaRegion": {
+      "type": "string",
+      "required": true,
+      "default": "This component displays text and a button. Use the button to navigate to another page.",
+      "inputType": "Text",
+      "validators": [],
+      "translatable": true
+    }
+  },
+  "properties":{
+    "_supportedLayout": {
+      "type": "string",
+      "required": true,
+      "enum": ["full-width", "half-width", "both"],
+      "default": "both",
+      "editorOnly": true
+    },
+    "instruction": {
+      "type": "string",
+      "required": false,
+      "default": "",
+      "inputType": "Text",
+      "validators": [],
+      "help": "given to the user",
+      "translatable": true
+    },
+    "_jumpbutton": {
+    	"type": "object",
+    	"required": true,
+    	"title": "Page Jumper",
+    	"properties": {
+        "theLabel": {
+          "type": "string",
+          "required": true,
+          "title": "Label",
+          "default": "Next Page >",
+          "inputType": "Text",
+          "validators": [],
+          "help": "text on the button",
+          "translatable": true
+    		},
+        "theLink": {
+          "type": "string",
+          "required": true,
+          "title": "Link",
+          "default": "",
+          "inputType": "Text",
+          "validators": [],
+          "help": "jump to this page id",
+          "translatable": true
+    		},
+        "thePosition": {
+          "type":"string",
+          "required":true,
+          "title": "Position",
+          "default": "left",
+          "inputType": {"type": "Select", "options":["left", "center", "right"]},
+          "validators": ["required"],
+          "help": "where the button is"
+        }
+    	}
+    }
+  }
+}
