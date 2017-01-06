@@ -26,7 +26,7 @@ you can also position the instruction text like this:
 
 ```<span style="display:block; text-align:left">oink!</span>```
 
-```<span style="display:block; text-align:centert">oink!</span>```
+```<span style="display:block; text-align:center">oink!</span>```
 
 ```<span style="display:block; text-align:right">oink!</span>```
 
