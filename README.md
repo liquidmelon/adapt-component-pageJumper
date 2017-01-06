@@ -11,6 +11,12 @@ the difference is the addition of a button which allows navigation to a differen
 
 
 
+##Screenshot
+
+<img align="right" src="http://adapt.liquidmelon.com/imagePool/pageJumperSS.png" alt="Page Jumper screenshot">
+
+
+
 ##Button Positioning
 
 choose one of these positions for the button in the properties: left (default), center, right
