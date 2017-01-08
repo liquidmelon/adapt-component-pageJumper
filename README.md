@@ -1,5 +1,5 @@
 # adapt-component-pageJumper
-text component with a button that jumps you to a different page
+a text component with a button to jump to any article, block, or component on any page
 
 
 
@@ -7,7 +7,7 @@ this component was derived from adaptlearning's text component which can be foun
 
 
 
-the difference is the addition of a button which allows navigation to a different page within the course
+the difference is the addition of a button which allows navigation to any other core element within the course
 
 
 
@@ -34,4 +34,4 @@ you can also position the instruction text like this:
 
 ## Limitations
 
-the jump-to page will replace the current page in the history. to maintain a fluid user experience, it is recommended to jump to pages only within the same submenu.
+there are no known limitations at this time.
