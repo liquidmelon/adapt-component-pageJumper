@@ -6,7 +6,7 @@
   "issues": "https://github.com/liquidmelon/adapt-component-pageJumper",
   "displayName" : "Page Jumper",
   "component" : "pageJumper",
-  "description": "text component with a button that jumps you to a different page",
+  "description": "a text component with a button to jump to any article, block, or component on any page",
   "main": "/js/adapt-component-pageJumper.js",
   "keywords": [
     "adapt-plugin",
