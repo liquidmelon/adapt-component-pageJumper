@@ -64,7 +64,7 @@
           "validators": ["required"],
           "help": "where the button is"
         }
-    	}
+      }
     }
   }
 }
