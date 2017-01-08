@@ -25,7 +25,7 @@ define(function(require) {
 
             var linkage = this.model.get('_jumpbutton').theLink;
 
-            Backbone.history.navigate("#/id/" + linkage, {trigger: true, replace: true});
+            Adapt.navigateToElement('.' + linkage, {duration: 1000});
         },
 
         setupInview: function() {
