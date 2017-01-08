@@ -1,12 +1,19 @@
 {
-    "_id":"c-05",
-    "_parentId":"b-05",
-    "_type":"component",
-    "_component":"pageJumper",
-    "_classes":"",
-    "_layout":"left",
-    "title":"Our first look at a component",
-    "displayTitle":"Our first look at a component",
-    "body":"This component you're reading is a text component. All components take this form of a title and body - except a blank component. However it's important to realise that title and body attributes are not needed. <br><br>Take for instance the media component opposite or below on a smaller device - has no body attribute. Instead of the HTML being rendered Adapt simply doesn't render it. The title attribute is simply a break tag to push the media component level with the opposite component.",
-    "instruction":""
+  "_id": "c-05",
+  "_layout": "right",
+  "_type": "component",
+  "_parentId": "b-05",
+  "body": "Meatball fatback ball tip beef ribs kielbasa, do ham hock hamburger et dolore salami. Kielbasa laboris ad aliquip jowl. Chicken shoulder bresaola id elit incididunt, capicola aliquip leberkas. Qui laboris ex anim officia flank ut exercitation esse dolor fatback beef sirloin aliqua. Meatloaf boudin rump aute in, dolore shank. Incididunt cillum cupim, anim fatback commodo ut culpa excepteur ground round do laboris aliqua andouille.",
+  "displayTitle": "Page Jumper",
+  "title": "Page Jumper",
+  "_isAvailable": true,
+  "_isOptional": false,
+  "_classes": "",
+  "_component": "pageJumper",
+  "instruction": "<span style=\"display:block; text-align:right\">oink!</span>",
+  "_jumpbutton": {
+    "theLabel": "Next Page >",
+    "theLink": "a-51",
+    "thePosition": "right"
+  }
 }
