@@ -52,7 +52,7 @@
           "default": "",
           "inputType": "Text",
           "validators": [],
-          "help": "jump to this page id",
+          "help": "jump to this id",
           "translatable": true
     		},
         "thePosition": {
