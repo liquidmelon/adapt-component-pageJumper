@@ -7,7 +7,7 @@
     "ariaRegion": {
       "type": "string",
       "required": true,
-      "default": "This component displays text and a button. Use the button to navigate to another page.",
+      "default": "This component displays text and a button. Use the button to navigate to other content.",
       "inputType": "Text",
       "validators": [],
       "translatable": true
