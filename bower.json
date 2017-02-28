@@ -1,5 +1,6 @@
 {
   "name": "adapt-component-pageJumper",
+  "repository": "git://github.com/liquidmelon/adapt-component-pageJumper.git",
   "version": "0.0.1",
   "framework": "^2.0.0",
   "homepage": "https://github.com/liquidmelon/adapt-component-pageJumper",
