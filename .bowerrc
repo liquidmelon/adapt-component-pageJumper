@@ -1,4 +1,4 @@
 {
 	"directory": "src/plugins",
-	"registry": "https://bower.herokuapp.com"
+	"registry": "http://adapt-bower-repository.herokuapp.com/"
 }
