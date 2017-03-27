@@ -1,28 +1,22 @@
 # adapt-component-pageJumper
-a text component with a button to jump to any article, block, or component on any page
+
+**Page Jumper** is a *presentation component* for the [Adapt framework](https://github.com/adaptlearning/adapt_framework) that displays text along with a button that allows navigation to any article, block, or component on any page within the course.
+
+**Page Jumper** is based on [adaptlearning's text component](https://github.com/adaptlearning/adapt-contrib-text) and uses built-in functionality of the [Adapt API](https://github.com/adaptlearning/adapt_framework/wiki/Adapt-API#adaptnavigatetoelement).
 
 
 
-this component was derived from adaptlearning's text component which can be found here: https://github.com/adaptlearning/adapt-contrib-text
-
-
-
-the difference is the addition of a button which allows navigation to any other core element within the course
-
-
-
-##Screenshot
+## Screenshot
 
 ![pagejumperss](https://cloud.githubusercontent.com/assets/24887794/21715124/9b874c54-d3b7-11e6-8a19-96f4176d3dfc.png)
 
 
 
-##Button Positioning
+## Button Positioning
 
-choose one of these positions for the button using the dropdown in the properties:
-left (default), center, right
+choose one of these positions for the button using the dropdown in the properties: left (default), center, right
 
-you can also position the instruction text like this:
+the instruction text can be positioned like this:
 
 ```<span style="display:block; text-align:left">oink!</span>```
 
@@ -34,4 +28,10 @@ you can also position the instruction text like this:
 
 ## Limitations
 
-there are no known limitations at this time.
+not known at this time
+
+
+
+----------------------------
+**Version number:** 0.0.1.1<br>
+**Framework versions:** ^2.0.0
